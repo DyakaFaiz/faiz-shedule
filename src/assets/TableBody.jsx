@@ -1,17 +1,12 @@
 import React, { useEffect, useState } from 'react';
+import Jadwal from '../../jadwal.json';
 
 function TableBody() {
     const [jadwalData, setJadwalData] = useState([]);
 
     useEffect(() => {
-        fetch('./jadwal.json')
-            .then(response => response.json())
-            .then(data => {
-                setJadwalData(data);
-            })
-            .catch(error => console.error('Error fetching data:', error));
+        setJadwalData(Jadwal);
     }, []);
-
     const renderJadwal = () => {
         let printedDays = {};
         return (
