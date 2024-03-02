@@ -1,0 +1,72 @@
+{
+    "senin": [
+        {
+            "mata_kuliah": "JARINGAN KOMPUTER",
+            "jam": "09:30 - 12:00",
+            "kontrak_kuliah":"SOON",
+            "ruang": "H.4.8"
+        },
+        {
+            "mata_kuliah": "PEMROGRAMAN BERORIENTASI OBJEK",
+            "jam": "14:10 - 15:50",
+            "kontrak_kuliah":"SOON",
+            "ruang": "H.4.2"
+        },
+        {
+            "mata_kuliah": "MATRIKS DAN RUANG VEKTOR",
+            "jam": "18:30 - 21:00",
+            "kontrak_kuliah":"SOON",
+            "ruang": "H.4.1"
+        }
+    ],
+    "selasa":[
+        {
+            "mata_kuliah": "INTERAKSI MANUSIA DAN KOMPUTER",
+            "jam": "09:30 - 12:00",
+            "kontrak_kuliah":"SOON",
+            "ruang": "H.5.11"
+        },
+        {
+            "mata_kuliah": "OTOMATA DAN TEORI BAHASA",
+            "jam": "12:30 -  15:00",
+            "kontrak_kuliah":"SOON",
+            "ruang": "H.4.8"
+        }
+    ],
+    "rabu":[
+        {
+            "mata_kuliah": "LITERASI INFORMASI",
+            "jam": "10:20 - 12:00",
+            "kontrak_kuliah":"SOON",
+            "ruang": "KULINO"
+        },
+        {
+            "mata_kuliah": "SISTEM BASIS DATA",
+            "jam": "14:10 - 15:50",
+            "kontrak_kuliah":"SOON",
+            "ruang": "D.3.N"
+        }
+    ],
+    "kamis":[
+        {
+            "mata_kuliah": "PEMROGRAMAN BERORIENTASI OBJEK",
+            "jam": "10:20 - 1200",
+            "kontrak_kuliah":"SOON",
+            "ruang": "D.2.A"
+        },
+        {
+            "mata_kuliah": "DASAR KEWIRAUSAHAAN",
+            "jam": "16:20 - 18:00",
+            "kontrak_kuliah":"SOON",
+            "ruang": "KULINO"
+        }
+    ],
+    "jumat":[
+        {
+            "mata_kuliah": "BAHASA INGGRIS",
+            "jam": "14:10 - 15:50",
+            "kontrak_kuliah":"SOON",
+            "ruang": "KULINO"
+        }
+    ]
+}
