@@ -1,5 +1,5 @@
 import Table from './assets/Table'
-import Footer from './assets/Footer'
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
