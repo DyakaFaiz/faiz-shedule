@@ -22,7 +22,7 @@ function TableBody() {
                                     <td>{jadwal.kontrak_kuliah}</td>
                                     <td>{jadwal.mata_kuliah}</td>
                                     <td>{jadwal.jam}</td>
-                                    <td>{jadwal.ruang}</td>
+                                    <td className='ruang'>{jadwal.ruang}</td>
                                 </tr>
                             );
                         } else if (index !== 0) {
@@ -31,7 +31,7 @@ function TableBody() {
                                     <td>{jadwal.kontrak_kuliah}</td>
                                     <td>{jadwal.mata_kuliah}</td>
                                     <td>{jadwal.jam}</td>
-                                    <td>{jadwal.ruang}</td>
+                                    <td className='ruang'>{jadwal.ruang}</td>
                                 </tr>
                             );
                         }
