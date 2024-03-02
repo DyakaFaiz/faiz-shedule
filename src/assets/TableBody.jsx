@@ -4,7 +4,7 @@ function TableBody() {
     const [jadwalData, setJadwalData] = useState([]);
 
     useEffect(() => {
-        fetch('jadwal.json')
+        fetch('./jadwal.json')
             .then(response => response.json())
             .then(data => {
                 setJadwalData(data);
