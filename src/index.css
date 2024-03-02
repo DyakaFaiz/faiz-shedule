@@ -11,29 +11,18 @@ body {
 #root {
   width: 100%;
   height: 100vh;
+  border: 1px solid blue;
 }
 
 .wrapper {
+  margin-top: 20px;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  min-width: 600px;
   align-items: center;
+  justify-content: center;
 }
 
 .hari {
   background: #eee;
-}
-
-.content {
-  padding: 12px;
-  margin-top: 16px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  min-width: 320px;
-  max-width: 700px;
 }
 
 .title {
@@ -75,7 +64,6 @@ q {
 
 #quotes {
   margin-top: 20px;
-  text-align: center;
 }
 
 .footer {
