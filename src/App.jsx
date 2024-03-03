@@ -1,6 +1,5 @@
 import Table from './assets/Table'
 
-
 function App() {
   return (
     <>
