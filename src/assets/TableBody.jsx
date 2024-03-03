@@ -19,7 +19,7 @@ function TableBody() {
                             return (
                                 <tr key={`${hari}-${index}`}>
                                     <td rowSpan={jadwalHariIni.length} className="hari">{hari.toLocaleUpperCase()}</td>
-                                    <td>{jadwal.kontrak_kuliah}</td>
+                                    <td className='kontrak-kuliah'>{jadwal.kontrak_kuliah}</td>
                                     <td>{jadwal.mata_kuliah}</td>
                                     <td>{jadwal.jam}</td>
                                     <td className='ruang'>{jadwal.ruang}</td>
@@ -28,7 +28,7 @@ function TableBody() {
                         } else if (index !== 0) {
                             return (
                                 <tr key={`${hari}-${index}`}>
-                                    <td>{jadwal.kontrak_kuliah}</td>
+                                    <td className='kontrak-kuliah'>{jadwal.kontrak_kuliah}</td>
                                     <td>{jadwal.mata_kuliah}</td>
                                     <td>{jadwal.jam}</td>
                                     <td className='ruang'>{jadwal.ruang}</td>

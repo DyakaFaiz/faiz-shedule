@@ -77,28 +77,28 @@ q {
 }
 
 @media screen and (max-width: 615px) {
-  .tabel2 {
-    width: 10px;
-  }
-
-  td {
-    width: 2px;
+  .wrapper {
+    min-width: 320px;
   }
   .title {
     font-size: 15px;
     padding: 12px;
   }
+
   th {
     padding: 8px;
     font-size: 11px;
   }
-  tbody > tr > td {
-    padding: 10px 4px;
+
+  td {
+    padding: 10px 5px;
     font-size: 10px;
+    width: 2px;
   }
-  .wrapper {
-    min-width: 320px;
+  .kontrak-kuliah {
+    font-size: 8px;
   }
+
   .footer {
     min-width: 180px;
     font-size: 9px;
