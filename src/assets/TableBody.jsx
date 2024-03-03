@@ -17,7 +17,7 @@ function TableBody() {
                         if (!printedDays[hari] && index === 0) {
                             printedDays[hari] = true;
                             return (
-                                <tr key={`${hari}-${index}`} className='animate__animated animate__zoomIn animate__delay-1s animate__slow'>
+                                <tr key={`${hari}-${index}`} className='animate__animated animate__zoomIn animate__delay-1s'>
                                     <td rowSpan={jadwalHariIni.length} className="hari">{hari.toLocaleUpperCase()}</td>
                                     <td className='kontrak-kuliah'>{jadwal.kontrak_kuliah}</td>
                                     <td>{jadwal.mata_kuliah}</td>
@@ -27,7 +27,7 @@ function TableBody() {
                             );
                         } else if (index !== 0) {
                             return (
-                                <tr key={`${hari}-${index}`} className='animate__animated animate__zoomIn animate__delay-1s animate__slow'>
+                                <tr key={`${hari}-${index}`} className='animate__animated animate__zoomIn animate__delay-1s'>
                                     <td className='kontrak-kuliah'>{jadwal.kontrak_kuliah}</td>
                                     <td>{jadwal.mata_kuliah}</td>
                                     <td>{jadwal.jam}</td>
