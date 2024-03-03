@@ -5,8 +5,7 @@ function Table(){
             <table border="1" cellSpacing="0">
                 <thead id="table-head">
                     <tr>
-                        <th>F</th>
-                        <th colSpan="4" className="title">Jadwal Kuliah</th>
+                        <th colSpan="5" className="title">Jadwal Kuliah</th>
                     </tr>
                     <tr>
                         <th>Hari</th>
