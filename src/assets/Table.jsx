@@ -3,7 +3,7 @@ function Table(){
     return (
             <div className="table">
             <table border="1" cellSpacing="0">
-                <thead id="table-head" className='animate__animated animate__bounceInDown animate__slow'>
+                <thead id="table-head" className='animate__animated animate__bounceInDown'>
                     <tr>
                         <th colSpan="5" className="title">Jadwal Kuliah</th>
                     </tr>
