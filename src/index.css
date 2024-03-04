@@ -54,6 +54,11 @@ td {
   font-size: 13px;
 }
 
+sup {
+  font-style: italic;
+  font-weight: bold;
+}
+
 .ruang {
   font-weight: bold;
 }
