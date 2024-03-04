@@ -9,14 +9,14 @@
         },
         {
             "mata_kuliah": "PEMROGRAMAN BERORIENTASI OBJEK",
-            "kelompok": "",
+            "kelompok": "A11.4417",
             "jam": "14:10 - 15:50",
-            "kontrak_kuliah":"SOON",
+            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
             "ruang": "H.4.2"
         },
         {
             "mata_kuliah": "MATRIKS DAN RUANG VEKTOR",
-            "kelompok": "",
+            "kelompok": "A11.4227",
             "jam": "18:30 - 21:00",
             "kontrak_kuliah":"SOON",
             "ruang": "H.4.1"
@@ -25,14 +25,14 @@
     "selasa":[
         {
             "mata_kuliah": "INTERAKSI MANUSIA DAN KOMPUTER",
-            "kelompok": "",
+            "kelompok": "A11.4225",
             "jam": "09:30 - 12:00",
             "kontrak_kuliah":"SOON",
             "ruang": "H.5.11"
         },
         {
             "mata_kuliah": "OTOMATA DAN TEORI BAHASA",
-            "kelompok": "",
+            "kelompok": "A11.4408",
             "jam": "12:30 -  15:00",
             "kontrak_kuliah":"SOON",
             "ruang": "H.4.8"
@@ -41,13 +41,14 @@
     "rabu":[
         {
             "mata_kuliah": "LITERASI INFORMASI",
-            "kelompok": "",
+            "kelompok": "A11.4608",
             "jam": "10:20 - 12:00",
             "kontrak_kuliah":"SOON",
             "ruang": "KULINO"
         },
         {
             "mata_kuliah": "SISTEM BASIS DATA",
+            "kelompok": "A11.4405",
             "jam": "14:10 - 15:50",
             "kontrak_kuliah":"SOON",
             "ruang": "D.3.N"
@@ -56,13 +57,14 @@
     "kamis":[
         {
             "mata_kuliah": "PEMROGRAMAN BERORIENTASI OBJEK",
-            "kelompok": "",
+            "kelompok": "A11.4417",
             "jam": "10:20 - 1200",
             "kontrak_kuliah":"SOON",
             "ruang": "D.2.A"
         },
         {
             "mata_kuliah": "DASAR KEWIRAUSAHAAN",
+            "kelompok": "A11.4227",
             "jam": "16:20 - 18:00",
             "kontrak_kuliah":"SOON",
             "ruang": "KULINO"
@@ -71,7 +73,7 @@
     "jumat":[
         {
             "mata_kuliah": "BAHASA INGGRIS",
-            "kelompok": "",
+            "kelompok": "A11.4605",
             "jam": "14:10 - 15:50",
             "kontrak_kuliah":"SOON",
             "ruang": "KULINO"

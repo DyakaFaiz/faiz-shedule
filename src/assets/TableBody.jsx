@@ -29,7 +29,7 @@ function TableBody() {
                             return (
                                 <tr key={`${hari}-${index}`} className='animate__animated animate__zoomIn animate__delay-1s'>
                                     <td className='kontrak-kuliah'>{jadwal.kontrak_kuliah}</td>
-                                    <td>{jadwal.mata_kuliah}<sup>{jadwal.kelompok}</sup></td>
+                                    <td>{jadwal.mata_kuliah} - <sup>{jadwal.kelompok}</sup></td>
                                     <td>{jadwal.jam}</td>
                                     <td className='ruang'>{jadwal.ruang}</td>
                                 </tr>
