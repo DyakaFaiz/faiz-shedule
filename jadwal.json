@@ -27,14 +27,14 @@
             "mata_kuliah": "INTERAKSI MANUSIA DAN KOMPUTER",
             "kelompok": "A11.4225",
             "jam": "09:30 - 12:00",
-            "kontrak_kuliah":"SOON",
+            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
             "ruang": "H.5.11"
         },
         {
             "mata_kuliah": "OTOMATA DAN TEORI BAHASA",
             "kelompok": "A11.4408",
             "jam": "12:30 -  15:00",
-            "kontrak_kuliah":"SOON",
+            "kontrak_kuliah":"TUGAS 30% | UTS 35%  | UAS 35%",
             "ruang": "H.4.8"
         }
     ],
@@ -50,7 +50,7 @@
             "mata_kuliah": "SISTEM BASIS DATA",
             "kelompok": "A11.4405",
             "jam": "14:10 - 15:50",
-            "kontrak_kuliah":"SOON",
+            "kontrak_kuliah":"TUGAS 30% | UTS 30%  | UAS 40%",
             "ruang": "D.3.N"
         }
     ],
@@ -59,7 +59,7 @@
             "mata_kuliah": "PEMROGRAMAN BERORIENTASI OBJEK",
             "kelompok": "A11.4417",
             "jam": "10:20 - 1200",
-            "kontrak_kuliah":"SOON",
+            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
             "ruang": "D.2.A"
         },
         {
