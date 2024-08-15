@@ -1,0 +1,82 @@
+{
+    "senin": [
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        },
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        },
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        }
+    ],
+    "selasa":[
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        },
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        }
+    ],
+    "rabu":[
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        },
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        }
+    ],
+    "kamis":[
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        },
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        }
+    ],
+    "jumat":[
+        {
+            "mata_kuliah": "SOON",
+            "kelompok": "SOON",
+            "jam": "SOON",
+            "kontrak_kuliah":"SOON",
+            "ruang": "SOON"
+        }
+    ]
+}
