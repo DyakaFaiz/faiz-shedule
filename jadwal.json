@@ -1,82 +1,66 @@
 {
     "senin": [
         {
-            "mata_kuliah": "JARINGAN KOMPUTER",
-            "kelompok": "A11.4405",
-            "jam": "09:30 - 12:00",
-            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
-            "ruang": "H.4.8"
+            "mata_kuliah": "PEMROGRAMAN SISI SERVER",
+            "kelompok": "A11.4704",
+            "jam": "12.30-15.00",
+            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "ruang": "H.5.13"
         },
         {
-            "mata_kuliah": "PEMROGRAMAN BERORIENTASI OBJEK",
-            "kelompok": "A11.4417",
-            "jam": "14:10 - 15:50",
-            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
-            "ruang": "H.4.2"
-        },
-        {
-            "mata_kuliah": "MATRIKS DAN RUANG VEKTOR",
-            "kelompok": "A11.4227",
-            "jam": "18:30 - 21:00",
-            "kontrak_kuliah":"TUGAS 20% | UTS 40%  | UAS 40%",
-            "ruang": "H.4.1"
+            "mata_kuliah": "PEMROGRAMAN SISI KLIEN",
+            "kelompok": "A11.4721",
+            "jam": "18.30-21.00",
+            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "ruang": "D.2.A"
         }
     ],
     "selasa":[
         {
-            "mata_kuliah": "INTERAKSI MANUSIA DAN KOMPUTER",
-            "kelompok": "A11.4225",
-            "jam": "09:30 - 12:00",
-            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
-            "ruang": "H.5.9"
+            "mata_kuliah": "KEAMANAN SISTEM DAN SIBER",
+            "kelompok": "A11.4702",
+            "jam": "07.00-09.30",
+            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "ruang": "H.5.14"
         },
         {
-            "mata_kuliah": "OTOMATA DAN TEORI BAHASA",
-            "kelompok": "A11.4408",
-            "jam": "12:30 -  15:00",
-            "kontrak_kuliah":"TUGAS 30% | UTS 35%  | UAS 35%",
+            "mata_kuliah": "JAMINAN KUALITAS PERANGKAT LUNAK",
+            "kelompok": "A11.4701",
+            "jam": "09.30-12.00",
+            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
             "ruang": "H.4.8"
+        },
+        {
+            "mata_kuliah": "SISTEM TERDISTRIBUSI ",
+            "kelompok": "A11.4513",
+            "jam": "12.30-15.00",
+            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "ruang": "H.5.3"
         }
     ],
     "rabu":[
         {
-            "mata_kuliah": "LITERASI INFORMASI",
-            "kelompok": "A11.4608",
-            "jam": "10:20 - 12:00",
-            "kontrak_kuliah":"SOON",
-            "ruang": "KULINO"
+            "mata_kuliah": "TECHNOPRENEURSHIP",
+            "kelompok": "A12.6702",
+            "jam": "08.40-10.20",
+            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "ruang": "H.5.1"
         },
         {
-            "mata_kuliah": "SISTEM BASIS DATA",
-            "kelompok": "A11.4405",
-            "jam": "14:10 - 15:50",
-            "kontrak_kuliah":"TUGAS 30% | UTS 30%  | UAS 40%",
-            "ruang": "D.3.N"
-        }
-    ],
-    "kamis":[
-        {
-            "mata_kuliah": "PEMROGRAMAN BERORIENTASI OBJEK",
-            "kelompok": "A11.4417",
-            "jam": "10:20 - 1200",
-            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
-            "ruang": "D.2.A"
-        },
-        {
-            "mata_kuliah": "DASAR KEWIRAUSAHAAN",
-            "kelompok": "A11.4227",
-            "jam": "16:20 - 18:00",
-            "kontrak_kuliah":"SOON",
-            "ruang": "KULINO"
+            "mata_kuliah": "KRIPTOGRAFI",
+            "kelompok": "A11.4502",
+            "jam": "12.30-15.00",
+            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "ruang": "H.4.11"
         }
     ],
     "jumat":[
         {
-            "mata_kuliah": "BAHASA INGGRIS",
-            "kelompok": "A11.4605",
-            "jam": "14:10 - 15:50",
-            "kontrak_kuliah":"SOON",
-            "ruang": "KULINO"
+            "mata_kuliah": "KECERDASAN BUATAN",
+            "kelompok": "A11.4512",
+            "jam": "09.30-12.00",
+            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "ruang": "H.5.10"
         }
     ]
 }

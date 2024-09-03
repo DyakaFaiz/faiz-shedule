@@ -1,4 +1,4 @@
-import Jadwal from '../../jadwal-kosong.json';
+import Jadwal from '../../jadwal.json';
 
 function TableBody() {
     const renderJadwal = () => {
