@@ -20,21 +20,21 @@
             "mata_kuliah": "KEAMANAN SISTEM DAN SIBER",
             "kelompok": "A11.4702",
             "jam": "07.00-09.30",
-            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
             "ruang": "H.5.14"
         },
         {
             "mata_kuliah": "JAMINAN KUALITAS PERANGKAT LUNAK",
             "kelompok": "A11.4701",
             "jam": "09.30-12.00",
-            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
             "ruang": "H.4.8"
         },
         {
             "mata_kuliah": "SISTEM TERDISTRIBUSI ",
             "kelompok": "A11.4513",
             "jam": "12.30-15.00",
-            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "kontrak_kuliah":"TUGAS 40% | UTS 30%  | UAS 30%",
             "ruang": "H.5.3"
         }
     ],
@@ -50,7 +50,7 @@
             "mata_kuliah": "KRIPTOGRAFI",
             "kelompok": "A11.4502",
             "jam": "12.30-15.00",
-            "kontrak_kuliah":"TUGAS -% | UTS -%  | UAS -%",
+            "kontrak_kuliah":"ABSENSI 10% | TUGAS 30% | UTS 30%  | UAS 30%",
             "ruang": "H.4.11"
         }
     ],
